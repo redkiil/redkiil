@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-august0_ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/august0-ferreira/)](https://www.linkedin.com/in/august0-ferreira/) 
 [![Gmail Badge](https://img.shields.io/badge/-dev.augusto.ferreira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.augusto.ferreira@gmail.com)](mailto:dev.augusto.ferreira@gmail.com)
 
-Olá, eu sou Augusto, Desenvolvedor de Software Júnior.
+Olá, eu sou Augusto, Desenvolvedor de Software.
 
 Um pouco sobre min, comecei a programar quando tinha 14 anos, diante de uma necessidade de fazer um script e um game para jogar com os amigos.
 Nos primeiros dias já gostei, depois surgiu a necessidade de criar um painel de controle onde pela primeira vez utilizei PHP e MySQL.
